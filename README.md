@@ -19,7 +19,7 @@ The analysis is structured around 3 core components:
 
 
 ## **Overall Performance and Exploratory Data Analysis**
+![newplot](https://github.com/user-attachments/assets/84bd7907-d542-4ec4-8838-3698970482d7)
 
-![newplot.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8dca83d7-91cc-4bc2-8972-fda1d0d0f2f5/21bc2741-9774-468f-b7d8-611b4af1ad04/newplot.png)
 
 **Customer Satisfaction:** Most companies generally have high customer satisfaction, with a majority of ratings being positive. However, there is a significant number of negative reviews as well, indicating areas for improvement.
